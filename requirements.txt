@@ -1,6 +1,6 @@
 torch==2.5.1
 torchvision==0.20.1
-opencv-python
+opencv-python-headless
 face_recognition @ git+https://github.com/Sanya003/face_recognition.git
 streamlit
 matplotlib
