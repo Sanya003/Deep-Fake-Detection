@@ -1,8 +1,7 @@
-torch==2.0.1
-torchvision==0.15.2
+torch==2.5.1
+torchvision==0.20.1
 opencv-python
 face_recognition
 streamlit
 matplotlib
 numpy
-
